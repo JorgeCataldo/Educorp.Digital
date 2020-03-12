@@ -10,7 +10,8 @@ Para executar os seus programas de capacitação online, essas empresas utilizam
 Para explorar essa oportunidade de mercado, experientes executivos do setor educacional propõem um modelo de negócios baseado na cobrança por **assinaturas mensais** onde é possível a capacitação de alto nível com recursos de orçamentos de pequenas e médias empresas.
 
 **O negócio e a execução** <br>
-A proposta inclui a criação da **EduCorp.Digital**, uma Edtech provedora de educação corporativa para colaboradores de empresas de diversos tamanhos, tais como funcionários de **pequenas empresas**, funcionários de **unidades de negócios** **de grandes e médias empresas e; funcionários de **empresas de grande porte** para uso em capacitações pontuais onde não é necessária a customização.
+A proposta inclui a criação da **EduCorp.Digital**, uma Edtech provedora de educação corporativa para colaboradores de empresas de diversos tamanhos, tais como funcionários de **pequenas empresas**, funcionários de **unidades de negócios** de grandes e médias empresas e; funcionários de **empresas de grande porte** para uso em capacitações pontuais onde não é necessária a customização.
+
 As simulações financeiras do plano de negócios mostram que é possível atingir **receitas líquidas** de R$ 2,5 milhões (EBITDA 23% RL) no **quinto ano** de operação da empresa, com um **investimento inicial** de R$ 409.000. 
 
 **Financiamento** <br>
