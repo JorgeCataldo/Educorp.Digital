@@ -17,11 +17,7 @@ As simulações financeiras do plano de negócios mostram que é possível ating
 **Financiamento** <br>
 O plano prevê que o investimento inicial será captado no mercado de **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional. 
 
-O objetivo do atual road show é a captação de **quatro quotas** de R$ 103.000 para **desenvolvimento de produtos** e para **capital de giro** para a comercialização e operação até o brake-even point.
-
-O sumário do plano de negócios está disponível para investidores interessados. 
-
-O objetivo do atual road show é a captação de **quatro quotas** de R$ 163.000 para **desenvolver sistemas de software** e **iniciar a operação** na cidade de São Paulo.
+O objetivo do atual road show é a captação de **quatro quotas** de R$ 103.000 para o **desenvolvimento de produtos** e como **capital de giro** para suportar a comercialização e a operação da empresa até o *brake-even point*.
 
 O **sumário** do plano de negócios está disponível para investidores interessados. <br>
 
